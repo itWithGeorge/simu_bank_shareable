@@ -23,11 +23,11 @@ User endpoint overview:
 ---
 
 ## ▶️ Demo Video
-A third‑party demo video of the functioning build is available here:  
-**[Watch the demo]([https://example.com/your-video-link](https://drive.google.com/file/d/1XC48CXnuiubVp6exmWFtAKPpTrdmvzyL/view?usp=sharing))**
+<!-- Use an HTML anchor so GitHub opens in a new tab. Add autoplay params if your host supports it (e.g., YouTube: ?autoplay=1). -->
+<a href="https://drive.google.com/file/d/1XC48CXnuiubVp6exmWFtAKPpTrdmvzyL/view?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Watch the demo</strong></a>
 
 
 ---
 
 ## 📬 Contact
-For **full code access** and the **Clockify report**, or to discuss production hardening, please reach out.
+For **full code access** and the **Clockify report**, or to discuss production hardening, please reach out via email/LinkedIn.
